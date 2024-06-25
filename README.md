@@ -5,6 +5,21 @@ then allows you to choose the RDC file to connect with
 The program will automatically assume that you have your credentials saved, 
 because it will automatically Connect, once you press the Connect button.
 
+STEP 1: Find your PBK file.
+This is usually in C:\Users\<username>\AppData\Roaming\Microsoft\Network\Connections\Pbk
+copy the RASPHONE.PBK to a more centralized folder. IE: desktop, documents, or C:\Windows\Temp\SecureRDCConnect
+
+STEP 2: Open your Remote Desktop Connection program and save your RDP file to your centralized folder.
+
+STEP 3: Open the SecureRDPConnect.exe program, point each of the Select options to your centralized folder.
+Select the file in the drop down box.
+Click Connect.
+
+when you are done with your connection work, manually close the Remote Desktop connection, then click the Disconnect button.
+
+
+
+
 Shoot me a message if you have any issues.
 
 If you wish to donate, my cashapp is $clef462.
